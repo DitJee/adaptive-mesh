@@ -1,7 +1,7 @@
 # adaptive mesh (staging)
 The branch is called `staging` which will be used as a 'sandbox' for the project. This is where all changes from other branches except `main` will merge to.
 
-# How to be contribute to staging
+# How to contribute to staging
 To commit changes to `staging`, you must create a new branch based on `staging` where the changes will be made. After the changes are finished, you have to create a pull request to from `base`: `[your new branch]` to `master`: `staging` and wait for the code to be reviewed and approved.
 
 # adaptive mesh
