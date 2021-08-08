@@ -1,0 +1,26 @@
+NREG    NFN     NBCS
+ 1       5        5
+COORDINATES
+ 1       0.        0. 
+ 2       0.5       0. 
+ 3       1.5       0.36397
+ 4       1.5       1.   
+ 5       0.        1.
+BOUNDARY SEGMENTS
+1     2     0     3 
+   1     2  
+2     2     0     3
+   2     3 
+3     2     0     2
+   3     4
+4     2     0     1
+   4     5
+5     2     0     1
+   5     1  
+REGION SPECIFICATION
+1     5
+1     2     3     4     5      
+INPUT GAMMA,EPSLAM,NTIME
+ 1.40      0.01      1000
+INITIAL CONDITIONS
+ 1.      1.       0.       0.6984
