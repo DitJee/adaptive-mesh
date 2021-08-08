@@ -1,3 +1,6 @@
+# adaptive mesh (main)
+The branch is called `main` which will be used as a final product. All merge requests have to be approved first in order to merge with this branch.
+
 # adaptive mesh
  This respository is about converting adaptive mesh code written in Fortran into Matlab. The theoretical of this project is based on Finite volume method in chapter 10 of Compressible Flow written by Prof. Pramote Dechaumphai, Ph.D.
 
