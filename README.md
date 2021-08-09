@@ -14,3 +14,5 @@ To commit changes to `staging`, you must create a new branch based on `staging` 
  - This remeshing code is called `remesh` which is developed in Fortran.
  - The professor have grad student run the program using Fortran compiler. The result is documented in `"\adaptive-mesh\Info files\Comments on Remesh & Hiflow Codes.docx"`. It was stated that the problem with Fortran is that it is not suitable for displaying results.
  - So, the purpose of this project is to make future students be able to conveniently generate adaptive mesh and plot the result and solutions.
+
+MIND IS HERE
