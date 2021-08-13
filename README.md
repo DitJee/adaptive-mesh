@@ -1,5 +1,7 @@
+
 # adaptive mesh (main)
 The branch is called `main` which will be used as a final product. All merge requests have to be approved first in order to merge with this branch. Moreover, the only branch that can merge into `main` is `staging` which will happen at the end of every week. 
+
 
 # adaptive mesh
  This respository is about converting adaptive mesh code written in Fortran into Matlab. The theoretical of this project is based on Finite volume method in chapter 10 of Compressible Flow written by Prof. Pramote Dechaumphai, Ph.D.
@@ -11,3 +13,5 @@ The branch is called `main` which will be used as a final product. All merge req
  - This remeshing code is called `remesh` which is developed in Fortran.
  - The professor have grad student run the program using Fortran compiler. The result is documented in `"\adaptive-mesh\Info files\Comments on Remesh & Hiflow Codes.docx"`. It was stated that the problem with Fortran is that it is not suitable for displaying results.
  - So, the purpose of this project is to make future students be able to conveniently generate adaptive mesh and plot the result and solutions.
+
+MIND IS HERE
