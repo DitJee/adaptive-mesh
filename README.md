@@ -1,8 +1,7 @@
-# adaptive mesh (staging)
-The branch is called `staging` which will be used as a 'sandbox' for the project. This is where all changes from other branches except `main` will merge to.
 
-# How to contribute to staging
-To commit changes to `staging`, you must create a new branch based on `staging` where the changes will be made. After the changes are finished, you have to create a pull request to from `base`: `[your new branch]` to `master`: `staging` and wait for the code to be reviewed and approved.
+# adaptive mesh (main)
+The branch is called `main` which will be used as a final product. All merge requests have to be approved first in order to merge with this branch. Moreover, the only branch that can merge into `main` is `staging` which will happen at the end of every week. 
+
 
 # adaptive mesh
  This respository is about converting adaptive mesh code written in Fortran into Matlab. The theoretical of this project is based on Finite volume method in chapter 10 of Compressible Flow written by Prof. Pramote Dechaumphai, Ph.D.
